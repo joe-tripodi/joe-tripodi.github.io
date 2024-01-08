@@ -1,7 +1,0 @@
-.card {
-  color: var(--color-secondary);
-  background-color: var(--color-secondary-glare);
-  padding: var(--space-m-l);
-  border-radius: var(--gutter);
-  max-width: unset;
-}
